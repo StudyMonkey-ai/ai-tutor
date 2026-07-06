@@ -1,0 +1,26 @@
+{
+  "name": "studymonkey-ai-ai-tutor",
+  "version": "1.0.0",
+  "description": "AI Tutor a free 24/7 AI tutor that explains any subject with personalized guidance",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-tutor",
+    "tutor",
+    "ai",
+    "education",
+    "learning",
+    "student",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "StudyMonkey",
+  "license": "ISC",
+  "homepage": "https://studymonkey.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studymonkey-ai/ai-tutor.git"
+  }
+}
